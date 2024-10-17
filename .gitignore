@@ -1,0 +1,13 @@
+# This is a comment
+# Ignore everything in the Library folder
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/
+
+# Ignore user-specific files
+[Uu]serSettings/
